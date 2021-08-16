@@ -1,4 +1,6 @@
-# User Story
+# Code Quiz Challenge
+
+## User Story
 
 A timed quiz that runs in the browser. It is dynamically designed and updated with HTML, CSS and JavaScript.
 
@@ -17,3 +19,7 @@ When the user clicks the start button, the timer will start and new questions wi
 * CSS
 * JavaScript
 * Bootstrap
+
+Github: <https://github.com/SarahKubik/CodeQuiz.git>
+
+URL: <https://sarahkubik.github.io/CodeQuizChallenge/>
