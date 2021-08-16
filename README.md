@@ -8,7 +8,7 @@ When the user clicks the start button, the timer will start and new questions wi
 
 ## Mock-up
 
-![The application has a blue gray button labeled Start Quiz](./assets/images/quizchallenge.jpg)
+![The application has a blue gray button labeled Start Quiz](./assets/images/quizchallenge.JPG)
 
 ## Installation
 
