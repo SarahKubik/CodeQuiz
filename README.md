@@ -20,6 +20,8 @@ When the user clicks the start button, the timer will start and new questions wi
 * JavaScript
 * Bootstrap
 
+## Links
+
 Github: <https://github.com/SarahKubik/CodeQuiz.git>
 
 URL: <https://sarahkubik.github.io/CodeQuizChallenge/>
